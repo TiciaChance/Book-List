@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0538595310638412EFEB389824203FE51157AFDA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0538595310638412EFEB389824203FE51157AFDA" : 9223372036854775807,
+    "8A44939297ED3C966B1B3628C513AD56F499E2A8" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7BDA5E23-1323-4E31-89E6-19150CAD0B66",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0538595310638412EFEB389824203FE51157AFDA" : "BookList\/",
+    "8A44939297ED3C966B1B3628C513AD56F499E2A8" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BookList",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BookList.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:TiciaChance\/Book-List.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0538595310638412EFEB389824203FE51157AFDA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:TiciaChance\/NameTheShow.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8A44939297ED3C966B1B3628C513AD56F499E2A8"
+    }
+  ]
+}
